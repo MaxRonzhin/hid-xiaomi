@@ -18,3 +18,5 @@ First download .deb package from [Releases](https://github.com/IlyaSkriblovsky/h
 Side buttons on your mouse should start to work immediately. But you will need to do `modprobe hid_xiaomi` after each reboot.
 
 To automatically insert the module while booting add `hid_xiaomi` to your `/etc/modules` file.
+
+# Драйвер для корректной работы боковых конпок мыши  Xiaomi Mi Silent Mouse / linux
